@@ -12,7 +12,7 @@ namespace Gnomo
         private String especialidad;
         public bool robarObjeto(Objeto o)
         {
-            return true;
+            return o != null;
         }
     }
 }
