@@ -10,5 +10,6 @@ namespace Gnomo
     {
         protected String nombre;
         protected String color;
+        protected int vida;
     }
 }
